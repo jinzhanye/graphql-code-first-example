@@ -1,0 +1,2 @@
+@ObjectType()
+export class Book {}
